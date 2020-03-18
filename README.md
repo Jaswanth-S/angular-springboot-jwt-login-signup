@@ -11,7 +11,7 @@ Steps to start the setup:
 
  create testdb using command
 	
-	-- create datyabase testdb;
+	-- create database testdb;
 
 Now navigate to  UserService and run using command 
 	
